@@ -33,3 +33,4 @@ clean:
 	$(RM) kubeapps $(EMBEDDED_STATIC)
 
 .PHONY: default binary test fmt vet clean
+
